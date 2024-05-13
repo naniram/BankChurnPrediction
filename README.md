@@ -1,5 +1,5 @@
 # Flask web app for bank churn prediction
-1. ChurnBuster: Bank Customer Churn Prediction App
+1.Bank Customer Churn Prediction App
 2. Project description:
    It's a web application designed to predict bank customer churn (whether a customer will leave the bank). It utilizes a     machine learning model trained on a bank customer dataset to make these predictions.
     Problem: Predicting bank customer churn.
