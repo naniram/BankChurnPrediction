@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 
-model = pickle.load(open('model.pkl','rb'))
+model = pickle.load(open('dataset_eda_model_training/model.pkl','rb'))
 app = Flask(__name__)
 
 @app.route('/')
